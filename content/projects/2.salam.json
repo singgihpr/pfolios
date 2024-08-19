@@ -1,0 +1,8 @@
+{
+  "name": "Salam - Landing Page",
+  "url": "https://salamsolusi.com",
+  "description": "Simply modern landing page for company Salam Solusi Nusantara, built with Tailwind & Nuxt",
+  "thumbnail": "/projects/salam.png",
+  "status": "Active",
+  "opensource": false
+}

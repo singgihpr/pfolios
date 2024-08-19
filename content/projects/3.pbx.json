@@ -1,0 +1,8 @@
+{
+  "name": "PBX - Dashboard Operation",
+  "url": "https://mypbx.telkom.co.id/",
+  "description": "Custom dashboard for operating PBX Device for clients of Telkom Indonesia, built with Laravel & Vue",
+  "thumbnail": "/projects/pbx.png",
+  "status": "Active",
+  "opensource": false
+}

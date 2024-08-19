@@ -1,0 +1,8 @@
+{
+  "name": "BMT - Sharia Accounting",
+  "url": "https://bmt.salamsolusi.com/",
+  "description": "Sharia Accounting web app for BMT Organization in Indonesia, built with Laravel & Vue",
+  "thumbnail": "/projects/bmt.png",
+  "status": "WIP",
+  "opensource": false
+}

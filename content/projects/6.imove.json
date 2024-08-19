@@ -1,0 +1,8 @@
+{
+  "name": "iMove - Internal Portal",
+  "url": "#",
+  "description": "Internal portal include many information such news, gallery etc for DCS Division Telkom Indonesia, built with Laravel & Vue",
+  "thumbnail": "/projects/imove.png",
+  "status": "Active",
+  "opensource": false
+}

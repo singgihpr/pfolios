@@ -1,0 +1,7 @@
+{
+  "name": "Wifi ID Bot",
+  "url": "#",
+  "description": "IoT with web dashboard to monitoring Wifi.id network performance using Arduino / RasPI, Python & Laravel",
+  "thumbnail": "/projects/wibot.png",
+  "status": "Finsih"
+}

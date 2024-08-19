@@ -1,0 +1,8 @@
+{
+  "name": "Product Catalog - DCS",
+  "url": "https://productcatalog.telkom.co.id/",
+  "description": "Internal web app which listing products of Telkom Indonesia for AM users, built with Laravel & Vue",
+  "thumbnail": "/projects/prolog.png",
+  "status": "Active",
+  "opensource": false
+}

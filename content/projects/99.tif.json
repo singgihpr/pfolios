@@ -1,0 +1,7 @@
+{
+  "name": "TIF - Internal Portal",
+  "url": "#",
+  "description": "Internal portal include many information such news, gallery, policy, library etc for Telkom Infrastruktur Indonesia (TIF), built with Laravel & Nuxt",
+  "thumbnail": "/projects/tif.png",
+  "status": "Finsih"
+}
